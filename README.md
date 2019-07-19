@@ -17,6 +17,7 @@ um texto, um valor lógico (sim/nao), etc.
 - String - textos 
 - int - números inteiros 
 - double - números decimais
+- bool - valor lógico
 
 ### Exemplo 1 - Tipos de Variáveis
 
