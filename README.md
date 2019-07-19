@@ -3,8 +3,6 @@
 
 ### Usando DART
 
-**Variáveis**
-
 **Variaveis**
 
 Um valor armazenado na memoria ram do computador,
@@ -71,7 +69,7 @@ if(teste_logico)
 }
 else
 {
-    //faz isso se o teste for falso
+	//faz isso se o teste for falso
 }
 ```
 
@@ -93,21 +91,22 @@ else
 ```dart
 void main() {
 	double nota1, nota2, media;
-  nota1 = 5;
-  nota2 = 2;
-  media = (nota1 + nota2) / 2;
-  if(media >= 5)
-  {
+  	nota1 = 5;
+  	nota2 = 2;
+  	media = (nota1 + nota2) / 2;
+	
+  	if(media >= 5)
+  	{
   		print("Aprovado com média $media");
-  }
-  else
-  {
+  	}
+  	else
+  	{
     	print("Reprovado com média $media");
-  }
+  	}
 }
 ```
 
-## Aula 3 - Lógica com DART
+## Lógica com DART
 
 Foi importada a *biblioteca* **dart:math** para podermos usar funções matemáticas como potência e raiz quadrada, no exemplo abaixo foi usada a função **math.sqrt()** para calcular a raiz de delta.
 
