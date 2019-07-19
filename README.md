@@ -37,7 +37,7 @@ void main() {
 
 double altura, peso , imc;
 
-altura = 1.68;
+altura = 1.78;
 
 peso = 83.0;
 
