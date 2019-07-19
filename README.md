@@ -1,9 +1,9 @@
 # Senac
 ## Curso Desenvolvedor Android
 
-### Usando DART
+## Usando DART
 
-# Variaveis
+## Variaveis
 
 Um valor armazenado na memoria ram do computador,
 que perde seu valor sempre que o PC é desligado.
